@@ -1,0 +1,179 @@
+/* Katie Taylor - February 13, 2020 */
+
+#container {
+  width:100%;
+  height: 100%;
+  margin:0;
+  border:1px solid #000;
+  background:black;
+}
+table{
+  border: 2px solid white;
+}
+th {
+  border: 2px solid white;
+}
+tr {
+  border: 2px solid white;
+}
+td {
+  border: 2px solid white;
+}
+#success {
+  color: red;
+  background:white;
+}
+body {
+  background: #66ffff;
+  margin:0;
+  padding:0;
+  font-family:arial,  helvetica, sans-serif;
+  font-size:20pt;
+  color: white;
+  border: none;
+}
+#column0 {
+  padding:10px;
+  float:left;
+  width: 100%;
+}
+a {
+  color: white;
+}
+h6 {
+  font-size: 70pt;
+  color: #66ffff;
+  font-family: impact;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
+}
+.newevent {
+  font-size: 20px;
+  border: 2px solid white;
+  background: #66ffff;
+}
+#neweventbutton {
+  padding:20px;
+  float:left;
+  width: 100%;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+#column1 {
+  padding: 10px;
+  width: 45%;
+  float:left;
+  height: 100%;
+  margin-left: 50px;
+}
+#column2 {
+  float: right;
+  width: 45%;
+  padding : 10px;
+  height: 100%;
+  margin-right: 50px;
+}
+#column3 {
+  padding:10px;
+  width: 75%;
+  text-align: left;
+  height: 100%;
+  margin: 300px 0px 50px 250px;
+}
+#column4 {
+  padding:10px;
+  width: 75%;
+  height: 100%;
+  margin-left: 300px;
+  margin-top: 0px;
+  font-size: 40pt;
+  text-align: left;
+}
+#header {
+  height:200px;
+  background: linear-gradient(to top right, #66ffff 0%, #cc99ff 100%);
+  border-bottom:10px solid #cc99ff;
+}
+#header h1 {
+  float: right;
+  color:black;
+  font-size:48pt;
+  margin:0px 40px 0px 0px;
+  padding:50px 50px 5px 5px;
+  font-family: impact;
+  text-shadow: 2px 2px white;
+}
+#about {
+  margin-left: 50px;
+}
+h2 {
+  color: #66ffff;
+  text-align: left;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  font-family: impact;
+  font-size: 32pt;
+}
+h3  {
+  color: white;
+  text-align: left;
+  margin-left: 50px;
+  margin-bottom: 0px;
+  font-family: impact;
+  font-size: 28pt;
+}
+p {
+  margin-left: 50px;
+}
+h5 {
+  text-align: left;
+  color: white;
+  border-style: outset;
+  border-color: #cc99ff;
+  margin: 40px 40px 40px 40px;
+  font-size: 20pt;
+}
+#sidebar ul {
+  float: left;
+  height: 150px;
+  margin:0;
+  padding: 40px 40px 40px 40px;
+}
+#sidebar ul li {
+  margin:0;
+  padding:0;
+  list-style:none;
+  border:1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  font-weight: bold;
+}
+#sidebar ul li a {
+  display:block;
+  padding:3px;
+  width:192px;
+  background: #cc99ff;
+  color:black;
+  text-indent:30px;
+  text-decoration:none;
+}
+#sidebar ul li a:hover {
+  background:#FFF;
+}
+#footer {
+  clear:both;
+  border-top:1px solid #000;
+  background:#66ffff;
+  padding:10px;
+  color:black;
+  font-size:8pt;
+  text-align:center;
+}
+img {
+  float: right;
+}
+ul {
+ margin-left: 75px;
+}
+ul {
+ margin-left: 75px;
+}
